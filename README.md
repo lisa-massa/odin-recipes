@@ -1,1 +1,2 @@
 # odin-recipes
+This is a small project I'm working on as part of the Odin Project. The goal is to become familiar with using Git and GitHub, while also sharpening my HTML skills. I used a variety of elements here, including multiple headers, ordered and unordered lists, anchor tags, and images.
